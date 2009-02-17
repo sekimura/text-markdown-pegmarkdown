@@ -10,48 +10,48 @@ xt/MarkdownXS.pl
 xt/MarkdownTest_1.0.3.t
 xt/MarkdownTest_1.0.3
 xt/MarkdownTest_1.0.3/Tests
-xt/MarkdownTest_1.0.3/Tests/Inline HTML (Simple).html
-xt/MarkdownTest_1.0.3/Tests/Strong and em together.text
-xt/MarkdownTest_1.0.3/Tests/Markdown Documentation - Basics.text
-xt/MarkdownTest_1.0.3/Tests/Inline HTML (Simple).text
-xt/MarkdownTest_1.0.3/Tests/Amps and angle encoding.html
-xt/MarkdownTest_1.0.3/Tests/Links, reference style.text
-xt/MarkdownTest_1.0.3/Tests/Links, inline style.html
-xt/MarkdownTest_1.0.3/Tests/Auto links.text
-xt/MarkdownTest_1.0.3/Tests/Hard-wrapped paragraphs with list-like lines.text
-xt/MarkdownTest_1.0.3/Tests/Blockquotes with code blocks.text
-xt/MarkdownTest_1.0.3/Tests/Backslash escapes.text
-xt/MarkdownTest_1.0.3/Tests/Nested blockquotes.html
-xt/MarkdownTest_1.0.3/Tests/Markdown Documentation - Basics.html
-xt/MarkdownTest_1.0.3/Tests/Hard-wrapped paragraphs with list-like lines.html
-xt/MarkdownTest_1.0.3/Tests/Code Blocks.text
-xt/MarkdownTest_1.0.3/Tests/Auto links.html
-xt/MarkdownTest_1.0.3/Tests/Horizontal rules.text
+xt/MarkdownTest_1.0.3/Tests/Inline\ HTML\ (Simple).html
+xt/MarkdownTest_1.0.3/Tests/Strong\ and\ em\ together.text
+xt/MarkdownTest_1.0.3/Tests/Markdown\ Documentation\ -\ Basics.text
+xt/MarkdownTest_1.0.3/Tests/Inline\ HTML\ (Simple).text
+xt/MarkdownTest_1.0.3/Tests/Amps\ and\ angle\ encoding.html
+xt/MarkdownTest_1.0.3/Tests/Links,\ reference\ style.text
+xt/MarkdownTest_1.0.3/Tests/Links,\ inline\ style.html
+xt/MarkdownTest_1.0.3/Tests/Auto\ links.text
+xt/MarkdownTest_1.0.3/Tests/Hard-wrapped\ paragraphs\ with\ list-like\ lines.text
+xt/MarkdownTest_1.0.3/Tests/Blockquotes\ with\ code\ blocks.text
+xt/MarkdownTest_1.0.3/Tests/Backslash\ escapes.text
+xt/MarkdownTest_1.0.3/Tests/Nested\ blockquotes.html
+xt/MarkdownTest_1.0.3/Tests/Markdown\ Documentation\ -\ Basics.html
+xt/MarkdownTest_1.0.3/Tests/Hard-wrapped\ paragraphs\ with\ list-like\ lines.html
+xt/MarkdownTest_1.0.3/Tests/Code\ Blocks.text
+xt/MarkdownTest_1.0.3/Tests/Auto\ links.html
+xt/MarkdownTest_1.0.3/Tests/Horizontal\ rules.text
 xt/MarkdownTest_1.0.3/Tests/Tidyness.text
-xt/MarkdownTest_1.0.3/Tests/Horizontal rules.html
-xt/MarkdownTest_1.0.3/Tests/Strong and em together.html
-xt/MarkdownTest_1.0.3/Tests/Literal quotes in titles.text
-xt/MarkdownTest_1.0.3/Tests/Links, shortcut references.text
-xt/MarkdownTest_1.0.3/Tests/Amps and angle encoding.text
+xt/MarkdownTest_1.0.3/Tests/Horizontal\ rules.html
+xt/MarkdownTest_1.0.3/Tests/Strong\ and\ em\ together.html
+xt/MarkdownTest_1.0.3/Tests/Literal\ quotes\ in\ titles.text
+xt/MarkdownTest_1.0.3/Tests/Links,\ shortcut\ references.text
+xt/MarkdownTest_1.0.3/Tests/Amps\ and\ angle\ encoding.text
 xt/MarkdownTest_1.0.3/Tests/Tidyness.html
-xt/MarkdownTest_1.0.3/Tests/Literal quotes in titles.html
-xt/MarkdownTest_1.0.3/Tests/Nested blockquotes.text
-xt/MarkdownTest_1.0.3/Tests/Inline HTML (Advanced).text
-xt/MarkdownTest_1.0.3/Tests/Ordered and unordered lists.html
-xt/MarkdownTest_1.0.3/Tests/Markdown Documentation - Syntax.html
+xt/MarkdownTest_1.0.3/Tests/Literal\ quotes\ in\ titles.html
+xt/MarkdownTest_1.0.3/Tests/Nested\ blockquotes.text
+xt/MarkdownTest_1.0.3/Tests/Inline\ HTML\ (Advanced).text
+xt/MarkdownTest_1.0.3/Tests/Ordered\ and\ unordered\ lists.html
+xt/MarkdownTest_1.0.3/Tests/Markdown\ Documentation\ -\ Syntax.html
 xt/MarkdownTest_1.0.3/Tests/Tabs.html
-xt/MarkdownTest_1.0.3/Tests/Blockquotes with code blocks.html
-xt/MarkdownTest_1.0.3/Tests/Markdown Documentation - Syntax.text
-xt/MarkdownTest_1.0.3/Tests/Ordered and unordered lists.text
-xt/MarkdownTest_1.0.3/Tests/Code Spans.html
-xt/MarkdownTest_1.0.3/Tests/Inline HTML comments.html
-xt/MarkdownTest_1.0.3/Tests/Backslash escapes.html
-xt/MarkdownTest_1.0.3/Tests/Inline HTML (Advanced).html
-xt/MarkdownTest_1.0.3/Tests/Links, shortcut references.html
-xt/MarkdownTest_1.0.3/Tests/Inline HTML comments.text
-xt/MarkdownTest_1.0.3/Tests/Links, reference style.html
-xt/MarkdownTest_1.0.3/Tests/Code Blocks.html
-xt/MarkdownTest_1.0.3/Tests/Links, inline style.text
+xt/MarkdownTest_1.0.3/Tests/Blockquotes\ with\ code\ blocks.html
+xt/MarkdownTest_1.0.3/Tests/Markdown\ Documentation\ -\ Syntax.text
+xt/MarkdownTest_1.0.3/Tests/Ordered\ and\ unordered\ lists.text
+xt/MarkdownTest_1.0.3/Tests/Code\ Spans.html
+xt/MarkdownTest_1.0.3/Tests/Inline\ HTML\ comments.html
+xt/MarkdownTest_1.0.3/Tests/Backslash\ escapes.html
+xt/MarkdownTest_1.0.3/Tests/Inline\ HTML\ (Advanced).html
+xt/MarkdownTest_1.0.3/Tests/Links,\ shortcut\ references.html
+xt/MarkdownTest_1.0.3/Tests/Inline\ HTML\ comments.text
+xt/MarkdownTest_1.0.3/Tests/Links,\ reference\ style.html
+xt/MarkdownTest_1.0.3/Tests/Code\ Blocks.html
+xt/MarkdownTest_1.0.3/Tests/Links,\ inline\ style.text
 xt/MarkdownTest_1.0.3/Tests/Tabs.text
-xt/MarkdownTest_1.0.3/Tests/Code Spans.text
+xt/MarkdownTest_1.0.3/Tests/Code\ Spans.text
 xt/MarkdownTest_1.0.3/MarkdownTest.pl
