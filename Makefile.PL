@@ -28,7 +28,7 @@ if (! (-l $symlink && -e $symlink) ) {
                 "$download_url",
                 "",
                 "(press Enter to proceed)"));
-            system('wget', '-O', $tgz, $download_url);
+            system('wget', '-O', $tgz, '--keep-session-cookies', $download_url);
         }
         system('tar', 'xfz', $tgz);
     }
