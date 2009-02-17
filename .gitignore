@@ -1,0 +1,15 @@
+Makefile
+Makefile.old
+blib
+XS.bs
+XS.c
+XS.o
+pm_to_blib
+*.swp
+ext/pm_to_blib
+ext/*.o
+ext/*.so
+ext/Makefile
+ext/Makefile.old
+peg-markdow
+jgm-peg-markdown
