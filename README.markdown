@@ -1,40 +1,29 @@
 Text-Markdown-PegMarkdown version 0.01
 ======================================
 
-The README is used to introduce the module and provide instructions on
-how to install the module, any machine dependencies it may have (for
-example C compilers and installed libraries) and any other information
-that should be provided before the module is installed.
-
-A README file is required for CPAN modules since CPAN extracts the
-README file from a module distribution so that people browsing the
-archive can use it get an idea of the modules uses. It is usually a
-good idea to provide version information here so that people can
-decide whether fixes for the module are worth downloading.
+Text::Markdown::PegMarkdow - Perl extension for John MacFarlane's
+peg-markdown, an implementation of markdown in C, using a PEG
+(parsing expression grammar).
 
 INSTALLATION
+============
 
 To install this module type the following:
 
-   perl Makefile.PL
-   make
-   make test
-   make install
+    perl Makefile.PL
+    make
+    make test
+    make install
+
+If you have a trouble with downloading a tarball from github.com
+during "perl Makefile.PL". Try to use "git" instead.
+
+    git clone git://github.com/jgm/peg-markdown.git jgm-peg-markdown
+
+And then, run "perl Makefile.PL" again.
 
 DEPENDENCIES
+============
 
-This module requires these other modules and libraries:
-
-  blah blah blah
-
-COPYRIGHT AND LICENCE
-
-Put the correct copyright and licence information here.
-
-Copyright (C) 2009 by Masayoshi Sekimura
-
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself, either Perl version 5.10.0 or,
-at your option, any later version of Perl 5 you may have available.
-
-
+peg-markdwon requires [glib2](http://www.gtk.org/download.html).
+So Makefile.PL does.
