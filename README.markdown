@@ -1,9 +1,8 @@
-Text-Markdown-PegMarkdown version 0.01
-======================================
+Text-Markdown-PegMarkdown
+=========================
 
-Text::Markdown::PegMarkdow - Perl extension for John MacFarlane's
-peg-markdown, an implementation of markdown in C, using a PEG
-(parsing expression grammar).
+Perl extension for John MacFarlane's [peg-markdown](http://github.com/jgm/peg-markdown/), 
+an implementation of markdown in C, using a PEG (parsing expression grammar).
 
 INSTALLATION
 ============
@@ -21,6 +20,9 @@ during "perl Makefile.PL". Try to use "git" instead.
     git clone git://github.com/jgm/peg-markdown.git jgm-peg-markdown
 
 And then, run "perl Makefile.PL" again.
+
+    rm jgm-peg-markdown-0.4.4.tar.gz
+    perl Makefile.PL
 
 DEPENDENCIES
 ============
